@@ -83,16 +83,12 @@ PathFinder/
 📬 Contact
 
 👤 Abhishek Ranjan
-📧 [abhisheksingh70224@gmail.com]
-💼 [LinkedIn Profile](https://www.linkedin.com/in/abhishekranjan20/)
-🪪 License
+📧 [abhisheksingh70224@gmail.com] 
 
+🪪 License
 This project is open-source and available under the MIT License.
 
 ⭐ Acknowledgements
 Special thanks to all the open-source contributors and educators who inspire algorithm visualizations worldwide.
 
 ---
-
-Would you like me to include your **GitHub repository link** and **LinkedIn/portfolio links** as well?  
-I can finalize them neatly in the contact section so it’s fully ready to upload to GitHub.
