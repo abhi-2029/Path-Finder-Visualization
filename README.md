@@ -7,8 +7,7 @@ This project provides a visual and intuitive understanding of how different algo
 
 ## 🚀 Live Demo
 
-🔗 **[View on Vercel](https://your-vercel-deployment-link.vercel.app/)**  
-(Replace the above link with your deployed Vercel URL)
+🔗 **[View on Vercel](https://path-finder-omega-virid.vercel.app/)**  
 
 ---
 
@@ -61,3 +60,39 @@ code .
 # Run on a local server (optional)
 # You can use VS Code Live Server extension or run:
 npx serve
+
+🧑‍💻 How It Works
+
+1.Select the algorithm you want to visualize
+
+2.Click on the grid to set:
+🟩 Start Node
+🟥 End Node
+⬛ Walls or Obstacles
+3.Click “Visualize” to run the algorithm
+4.Watch how the algorithm explores and finds the path!
+
+🧱 Folder Structure
+PathFinder/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+📬 Contact
+
+👤 Abhishek Ranjan
+📧 [abhisheksingh70224@gmail.com]
+💼 [LinkedIn Profile](https://www.linkedin.com/in/abhishekranjan20/)
+🪪 License
+
+This project is open-source and available under the MIT License.
+
+⭐ Acknowledgements
+Special thanks to all the open-source contributors and educators who inspire algorithm visualizations worldwide.
+
+---
+
+Would you like me to include your **GitHub repository link** and **LinkedIn/portfolio links** as well?  
+I can finalize them neatly in the contact section so it’s fully ready to upload to GitHub.
